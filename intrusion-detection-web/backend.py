@@ -7,13 +7,13 @@ import time
 
 # Sample attack patterns (can be extended)
 attack_patterns = [
-    "' OR '1'='1",
+  "' OR '1'='1",
     "<script>",
     "../../",
     "wget",
     "curl",
     "nc",
-    "'--",
+    "'--",  
     # Additional patterns
     "<img src=x onerror=alert(1)>",
     "<iframe src=javascript:alert(1)>",
