@@ -15,6 +15,11 @@ A unified web application for cybersecurity analysis, combining an **Intrusion D
 
 ```bash
 git clone https://github.com/Aamir2424/Intrusion-Detection-String-Match-Visualizer.git
+```
+
+Then navigate to the project directory:
+
+```bash
 cd Intrusion-Detection-String-Match-Visualizer
 ```
 
